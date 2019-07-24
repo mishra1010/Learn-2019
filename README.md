@@ -7,4 +7,4 @@ Types of Data-
 1. Population data - includes all the data that we are studying
 2. Sample Data - a subset of the data from the population data
 
-![Example](/Learn-2019/images/typesofdata.jpg?raw=true "Example")
+![Example](Learn-2019/images/typesofdata.jpg?raw=true "Example")
