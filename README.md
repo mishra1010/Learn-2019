@@ -1,6 +1,6 @@
 # Learn-2019 - Courtesy Courseera
 ------------------------------------------------------------------- Statistics---------------------------------------------------
-
+**Week1**
 Day1
 
 Types of Data-
@@ -24,3 +24,5 @@ Continuous can take any value in an interval. ex- amount of time we wait in a li
 
 Examples
 ![Examples](/images/categoricalvsquantitative.png?raw=true "Examples")
+
+**Measures of Center**
