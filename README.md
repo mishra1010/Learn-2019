@@ -31,5 +31,28 @@ A very important question to be answered in data is about the location of its ce
 2. median - is found by putting data in the list from small to largest and find the middle value and if there are 2 middle value, average those to find the median.
 3. mode - value that ocurs most often in a list. Used as a description of center for categorical data.
 
-Example1
+*Example1*
 ![Examples](/images/meanmode.png?raw=true "Examples")
+
+*Example2 - Using R-studio*
+list=c(type in all the values)
+
+*command for mean*
+mean(list)
+*command for median*
+median(list)
+
+Mode is not available as a function, so we need to first
+sort(list)
+Then pick out the one that occurs the most as the answer
+
+*Example3*
+![Examples](/images/meanmode2.png?raw=true "Examples")
+
+*Example4*
+![Examples](/images/meanmode3.png?raw=true "Examples")
+
+
+
+
+
