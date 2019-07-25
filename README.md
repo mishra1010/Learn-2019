@@ -26,3 +26,10 @@ Examples
 ![Examples](/images/categoricalvsquantitative.png?raw=true "Examples")
 
 **Measures of Center**
+A very important question to be answered in data is about the location of its center. MOC includes-
+1. mean - denoted by mu for population mean and xbar for sample mean (calculate mean by adding all values and dividing by how many)
+2. median - is found by putting data in the list from small to largest and find the middle value and if there are 2 middle value, average those to find the median.
+3. mode - value that ocurs most often in a list. Used as a description of center for categorical data.
+
+Example1
+![Examples](/images/meanmode.png?raw=true "Examples")
