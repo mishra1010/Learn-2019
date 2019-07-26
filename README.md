@@ -53,6 +53,17 @@ Then pick out the one that occurs the most as the answer
 ![Examples](/images/meanmode3.png?raw=true "Examples")
 
 
+**Day 3**
+
+**Standard Deviation and Variance**
+Important question to answer about data is about its spread or dispersion.
+Population Standard Deviation - (Sigma)σ is the average distance data values fall from the mean.
+Population Variance - σ^2 is the square of population standard deviation.
+
+How to find Variance?
+Variance is the average of the squared data values from mean.
+![Examples](/images/Variance.png?raw=true "Examples")
+
 
 
 
