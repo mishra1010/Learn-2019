@@ -64,6 +64,27 @@ How to find Variance?
 Variance is the average of the squared data values from mean.
 ![Examples](/images/Variance.png?raw=true "Examples")
 
+The population standard deviationis found by squarerooting the variance(σ^2).
+![Examples](/images/samplevar.png?raw=true "Examples")
+
+Example
+![Examples](/images/samplevar1.png?raw=true "Examples")
+
+*Using rstudio*
+mean(grades)
+sd(grades)
+(sd(grades))^2 ---- variance
+
+![Examples](/images/samplevar2.png?raw=true "Examples")
+Here the mean changes by 10 but SD and var remain same as this is on the data dispersion/spread which is the same when we add 10 to all the data available. there is no difference in the data spread
+
+What about Multiplying?
+![Examples](/images/samplevar3.png?raw=true "Examples")
 
 
+-Sometimes we want to compare the variation between 2 groups. The coefficient of variation can be used for this.
+-The coefficient of variation is the ratio of SD to mean.A smaller variation represents less variation in the data.
+
+-Example--
+![Examples](/images/coeffofvar.png?raw=true "Examples")
 
