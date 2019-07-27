@@ -37,9 +37,9 @@ Example-
 ![Example](/images/rangiq2.png?raw=true "Example")
 
 Suppose we know the position(the order) of a value and we want to know what percentile it is ranked at.
-![Example](/images/rangiq3.png?raw=true "Example")
+![Example](/images/raniq3.png?raw=true "Example")
 
 Example
-![Example](/images/rangiq4.png?raw=true "Example")
+![Example](/images/raniq4.png?raw=true "Example")
 
 
