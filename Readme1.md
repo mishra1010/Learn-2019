@@ -34,7 +34,7 @@ Example
 *if we want to find the measurement that has a desired percentile rank, the 100pth percentile, is the measurement with rank(or position in the list) of nP+0.5, where n represents the number of data value in the sample.
 
 Example-
-![Example](/images/rangiq2.png?raw=true "Example")
+![Example](/images/raniq2.png?raw=true "Example")
 
 Suppose we know the position(the order) of a value and we want to know what percentile it is ranked at.
 ![Example](/images/raniq3.png?raw=true "Example")
