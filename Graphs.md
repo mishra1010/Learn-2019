@@ -39,7 +39,7 @@ A bar graph is created by listing the categorical data in x-axis and frequencies
 
 
 A pie chart is a circular chart divided in to sectors indicating the proportion of each data value compared to each set of values.
-![Example](/images/piech.png?raw=true "Example
+![Example](/images/piech.png?raw=true "Example")
 
 We are also concerned about the pattern and shapes of graph that our data represents-
 1. Uniformity
