@@ -21,3 +21,16 @@ Example
 
 Example
 ![Example](/images/perm5.png?raw=true "Example")
+
+*The number of circular permutations for n objects is (n-1)!*
+**if i want to know in how many ways can 12 people be seated around a circular table?**
+The answer would be (12-1)!==11!
+
+
+
+**Combination**
+A combination gives the number of ways of picking **r unordered** outcomes from n possibilities. The number of combinations of a set of n objects taken r at a time is-
+ncr =n!/r!(n-r)!
+
+... Order does not matter in Combinations.
+![Example](/images/combn.png?raw=true "Example")
